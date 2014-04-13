@@ -1,0 +1,12 @@
+{
+  "name": "PubNasty",
+  "version": "0.1.0",
+  "author": "two dollar",
+  "description": "PubNasty",
+  "main": "pubnasty.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "bluebird": "~1.2.2",
+    "lodash": "~2.4.1"
+  }
+}
